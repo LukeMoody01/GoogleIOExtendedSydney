@@ -1,0 +1,6 @@
+example:
+  - hello:
+  - goodbye:
+  - saveAddress:
+  - saveUser:
+  - getUser:

@@ -1,0 +1,5 @@
+class: Employee
+fields:
+  name: String
+  dob: DateTime?
+  role: String

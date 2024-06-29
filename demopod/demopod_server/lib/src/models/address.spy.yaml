@@ -1,0 +1,4 @@
+class: Address
+table: address
+fields:
+  street: String

@@ -1,0 +1,8 @@
+class: User
+table: user
+fields:
+  address: Address?, relation
+indexes:
+  user_address_unique_idx:
+    fields: addressId
+    unique: true
